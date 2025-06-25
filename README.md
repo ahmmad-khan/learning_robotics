@@ -7,11 +7,11 @@ I wil upload 6 project with full code and all details initially .
 you will find it like your class so that you can understand easily .
 i declare the 6 project _--
 1 SMART DUSTBIN
-2 SMART MOTION LIGHT 
-3 FIRE ALARMING SYSTEM 
-4 DIGITAL DOOR LOCK 
-5 LEGENDARY SOCCER BOT
-6 MECHANICAL ARM. 
+  2 SMART MOTION LIGHT 
+  3 FIRE ALARMING SYSTEM 
+  4 DIGITAL DOOR LOCK 
+  5 LEGENDARY SOCCER BOT
+  6 MECHANICAL ARM. 
 Then i wiil end the repository and will see with the next advance project in the new repository..
 Its the suummary of this course .
 
